@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PenggarisSegitiga" size="1.000000 1.000000" />
+    <ImageTarget name="PenggarisMal" size="1.000000 1.000000" />
+    <ImageTarget name="rapido" size="1.000000 1.000000" />
+    <ImageTarget name="pensilmekanik" size="1.000000 1.000000" />
+    <ImageTarget name="pensilbatang" size="1.000000 1.000000" />
+    <ImageTarget name="penghapustinta" size="1.000000 1.000000" />
+    <ImageTarget name="penghapuspensil" size="1.000000 1.000000" />
+    <ImageTarget name="papantulisdrawing" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
